@@ -1,0 +1,48 @@
+{
+  "name": "selenium-webdriver-es6modules-typescript-tsnode-jasmine",
+  "version": "1.0.0",
+  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, TypeScript, and jasmine.",
+  "devDependencies": {
+    "@types/jasmine": "3.5.2",
+    "@types/node": "12.12.26",
+    "@types/selenium-webdriver": "4.0.6",
+    "chromedriver": "79.0.2",
+    "husky": "4.2.1",
+    "jasmine": "3.5.0",
+    "lint-staged": "10.0.7",
+    "prettier": "1.19.1",
+    "puppeteer": "2.1.0",
+    "selenium-webdriver": "4.0.0-alpha.5",
+    "ts-node": "8.6.2",
+    "tslint": "5.20.1",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.6.4"
+  },
+  "scripts": {
+    "pretty": "prettier --no-config './spec/*.ts' --write",
+    "lint": "tslint -c tslint.json './spec/*.ts'",
+    "test": "npx jasmine"
+  },
+  "keywords": [
+    "selenium-webdriver",
+    "es6modules",
+    "typescript",
+    "ts-node",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{ts,js,css,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}
