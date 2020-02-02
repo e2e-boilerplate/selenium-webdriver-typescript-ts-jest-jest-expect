@@ -21,7 +21,7 @@ describe("Sandbox", () => {
     browser.quit();
   });
 
-  it("should be on Sandbox", async () => {
+  it("Should be on Sandbox", async () => {
     const title = await browser.getTitle();
     const header = await browser.findElement(By.css("h1"));
 

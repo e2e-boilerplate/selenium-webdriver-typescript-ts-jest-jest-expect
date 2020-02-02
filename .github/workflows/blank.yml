@@ -1,4 +1,4 @@
-name: selenium-webdriver-typescript-ts-node-jasmine-expect
+name: selenium-webdriver-typescript-ts-jest-jest-expect
 
 on:
   push:
