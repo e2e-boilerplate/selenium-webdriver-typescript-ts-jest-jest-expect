@@ -42,7 +42,7 @@
       "git add"
     ]
   },
-  "name": "selenium-webdriver-TypeScript-ts-jest-Jest-Expect",
+  "name": "selenium-webdriver-typescript-ts-jest-jest-expect",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-TypeScript-ts-jest-Jest-Expect.git"
