@@ -1,7 +1,7 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "dependencies": {},
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-jest and Jest.",
+  "description": "selenium webdriver end-to-end test automation boilerplate.",
   "devDependencies": {
     "@types/jest": "25.1.4",
     "@types/node": "12.12.29",
@@ -23,7 +23,12 @@
     }
   },
   "keywords": [
+    "boilerplate",
+    "e2e",
+    "e2e tests",
+    "example",
     "expect",
+    "integration test",
     "jest",
     "jest",
     "selenium",
