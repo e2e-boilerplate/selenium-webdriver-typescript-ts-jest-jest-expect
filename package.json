@@ -1,10 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/issues"
   },
-  "dependencies": {},
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Using TypeScript, ts-node, Jest, Jest and Expect.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. using TypeScript, ts-jest, Jest and Expect.",
   "devDependencies": {
     "@types/jest": "25.1.4",
     "@types/node": "12.12.29",
@@ -27,16 +26,11 @@
     }
   },
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
-    "jest",
     "jest",
     "selenium",
     "selenium-webdriver",
+    "ts-jest",
     "typescript"
   ],
   "license": "MIT",
