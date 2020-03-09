@@ -1,8 +1,6 @@
 [![GitHub Actions status | e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect](https://github.com/e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect/workflows/selenium-webdriver-typescript-ts-jest-jest-expect/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect/actions?workflow=selenium-webdriver-typescript-ts-jest-jest-expect)
 
-# selenium-webdriver 
-
-
+# Welenium WebDriver 
 
 selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-jest, Jest and Expect.
 
