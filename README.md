@@ -1,5 +1,5 @@
 # selenium-webdriver 
-#### Using TypeScript, ts-jest, Jest and Expect
+TypeScript, ts-jest, Jest and Expect
 
 [![GitHub Actions status | e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect](https://github.com/e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect/workflows/selenium-webdriver-typescript-ts-jest-jest-expect/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-typescript-ts-jest-jest-expect/actions?workflow=selenium-webdriver-typescript-ts-jest-jest-expect)
 
