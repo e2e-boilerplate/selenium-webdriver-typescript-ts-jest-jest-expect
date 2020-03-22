@@ -4,7 +4,10 @@
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/issues"
   },
   "dependencies": {
+    "chromedriver": "80.0.1",
     "jest": "25.1.0",
+    "selenium-webdriver": "4.0.0-alpha.7",
+    "ts-jest": "25.2.1",
     "typescript": "3.8.3"
   },
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using TypeScript, ts-jest, Jest and Expect.",
