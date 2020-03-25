@@ -6,7 +6,6 @@
     "types": ["node", "jest", "selenium-webdriver"],
     "typeRoots": ["node_modules/@types"],
     "outDir": "build",
-    "allowSyntheticDefaultImports": true,
     "target": "es5"
   }
 }
