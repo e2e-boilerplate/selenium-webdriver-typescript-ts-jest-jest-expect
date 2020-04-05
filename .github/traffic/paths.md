@@ -1,0 +1,12 @@
+| referrer                                                                                                         | count | uniques |
+| :--------------------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/actions                                       | 3     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect                                               | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/actions/runs/61122224                         | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/actions/runs/61196388                         | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/actions/runs/62548483                         | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/network/alert/package-lock.json/minimist/open | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/pull/46                                       | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/runs/526365928                                | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/runs/526600482                                | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect/runs/531850696                                | 1     | 1       |
