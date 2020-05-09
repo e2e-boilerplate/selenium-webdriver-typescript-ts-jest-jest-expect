@@ -7,7 +7,7 @@
     "chromedriver": "80.0.2",
     "jest": "25.5.4",
     "selenium-webdriver": "4.0.0-alpha.7",
-    "ts-jest": "25.5.0",
+    "ts-jest": "25.5.1",
     "typescript": "3.8.3",
     "webdriver-manager": "12.1.7"
   },
