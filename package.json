@@ -13,7 +13,7 @@
   },
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using TypeScript, ts-jest, Jest and Expect.",
   "devDependencies": {
-    "@types/jest": "25.2.1",
+    "@types/jest": "25.2.2",
     "@types/node": "13.13.6",
     "@types/selenium-webdriver": "4.0.9",
     "husky": "4.2.5",
