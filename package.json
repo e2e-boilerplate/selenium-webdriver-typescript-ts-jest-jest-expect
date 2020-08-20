@@ -8,7 +8,7 @@
     "jest": "26.4.1",
     "selenium-webdriver": "4.0.0-alpha.7",
     "ts-jest": "26.2.0",
-    "typescript": "3.9.7",
+    "typescript": "4.0.2",
     "webdriver-manager": "12.1.7"
   },
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using TypeScript, ts-jest, Jest and Expect.",
