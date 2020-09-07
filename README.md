@@ -2,7 +2,7 @@
     
 # Selenium-WebDriver Boilerplate
     
-Selenium-WebDriver end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/kulshekhar/ts-jest), [Jest](https://jestjs.io) and Expect.
+Selenium-WebDriver end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/kulshekhar/ts-jest), [Jest](https://jestjs.io) and Expect.. Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect.git
